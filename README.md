@@ -1,5 +1,5 @@
 # Segurança Pública 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Este projeto de extensão tem como objetivo coletar, tratar e analisar dados disponibilizados pelo Governo Federal do Brasil. Utilizando Python para limpeza e pré-processamento de dados, e o Power Bi para vizualização. Buscamos gerar insights relevantes de forma acessível.
 
